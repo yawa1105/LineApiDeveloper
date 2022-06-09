@@ -87,3 +87,8 @@ function GetDateAfter(diff, type='label') {
     else if (type == 'data') return label.replace(/[年月日]/g, '');
     else return '';
 }
+
+
+
+
+console.log('テスト');
