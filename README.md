@@ -1,2 +1,2 @@
 # LineApiDeveloper
-テスト用
+プルリク用
